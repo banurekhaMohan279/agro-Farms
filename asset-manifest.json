@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/agrofarms/static/css/main.8b76625c.chunk.css",
+    "main.js": "/agrofarms/static/js/main.8ab75217.chunk.js",
+    "main.js.map": "/agrofarms/static/js/main.8ab75217.chunk.js.map",
+    "runtime-main.js": "/agrofarms/static/js/runtime-main.53060974.js",
+    "runtime-main.js.map": "/agrofarms/static/js/runtime-main.53060974.js.map",
+    "static/js/2.6e2a2201.chunk.js": "/agrofarms/static/js/2.6e2a2201.chunk.js",
+    "static/js/2.6e2a2201.chunk.js.map": "/agrofarms/static/js/2.6e2a2201.chunk.js.map",
+    "static/js/3.76f630d5.chunk.js": "/agrofarms/static/js/3.76f630d5.chunk.js",
+    "static/js/3.76f630d5.chunk.js.map": "/agrofarms/static/js/3.76f630d5.chunk.js.map",
+    "index.html": "/agrofarms/index.html",
+    "static/css/main.8b76625c.chunk.css.map": "/agrofarms/static/css/main.8b76625c.chunk.css.map",
+    "static/js/2.6e2a2201.chunk.js.LICENSE.txt": "/agrofarms/static/js/2.6e2a2201.chunk.js.LICENSE.txt",
+    "static/media/carousel-1.2b274c15.jpg": "/agrofarms/static/media/carousel-1.2b274c15.jpg",
+    "static/media/carousel-2.4b82620c.jpg": "/agrofarms/static/media/carousel-2.4b82620c.jpg",
+    "static/media/carousel-3.4b82620c.jpg": "/agrofarms/static/media/carousel-3.4b82620c.jpg",
+    "static/media/logo.6ce24c58.svg": "/agrofarms/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53060974.js",
+    "static/js/2.6e2a2201.chunk.js",
+    "static/css/main.8b76625c.chunk.css",
+    "static/js/main.8ab75217.chunk.js"
+  ]
+}
