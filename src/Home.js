@@ -4,7 +4,7 @@ import carousel3 from './img/carousel-3.jpg';
 
 export default function Home(){
   return(
-      <div id="carouselExampleDark" className="carousel carousel-dark slide" data-bs-ride="carousel">
+      <div id="carouselExampleDark" className="carousel slide" data-bs-ride="carousel">
           <div className="carousel-indicators">
             <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
             <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -14,8 +14,8 @@ export default function Home(){
             <div className="carousel-item active" data-bs-interval="1000">
               <img src= {carousel1} className="d-block w-100" alt="carousel img 1"/>
               <div className="carousel-caption d-none d-md-block">
-                <h5>Upto 50% off on everything</h5>
-                <p>Shop before the stocks run out!!</p>
+                <h5>Upto 50% off on everything!!!</h5>
+                <p>Shop before the stocks run out..</p>
               </div>
             </div>
             <div className="carousel-item" data-bs-interval="2000">
