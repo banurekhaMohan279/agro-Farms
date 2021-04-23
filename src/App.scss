@@ -27,6 +27,14 @@ header {
 		font-size: 2rem;
 	}
 }
+
+.navbar-brand{
+  img{
+    width: 1rem;
+    height: 1rem;
+    margin: 0 1rem 0 1rem;
+  }
+}
 main {
 	background: $primary-color;
 }

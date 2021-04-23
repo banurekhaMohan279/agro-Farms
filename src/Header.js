@@ -1,8 +1,11 @@
+import icon from './img/icon.png';
 
 export default function Header(){
   return(<nav className="navbar navbar-expand-lg navbar-light">
     <div className="container-fluid">
-      <a className="navbar-brand" href="#">Agro Farms</a>
+      <a className="navbar-brand" href="#">
+        <img src = {icon} alt = "icon"/>Agro Farms
+      </a>
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
       </button>
