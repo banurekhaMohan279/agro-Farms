@@ -1,12 +1,11 @@
-import logo from './logo.svg';
-import './App.scss';
 import carousel1 from './img/carousel-1.jpg';
-import carousel2 from './img/carousel-2.jpg';
+import carousel2 from './img/carousel-2.jpeg';
 import carousel3 from './img/carousel-3.jpg';
+import About from './About';
 
 function App() {
   return (
-    <div classNameName="App">
+    <div className="App">
     <header>
       <nav className="navbar navbar-expand-lg navbar-light">
         <div className="container-fluid">
@@ -26,7 +25,7 @@ function App() {
     </header>
 
     <main>
-      <div className = "Home container" id = "home">
+      <div className = "Home container mb-5" id = "home">
         <div id="carouselExampleDark" className="carousel carousel-dark slide" data-bs-ride="carousel">
             <div className="carousel-indicators">
               <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
@@ -68,8 +67,8 @@ function App() {
             </button>
           </div>
       </div>
-      <div className = "About" id = "about">
-        About
+      <div className = "About container mb-5" id = "about">
+        <About/>
       </div>
       <div className = "Contact" id = "contact">
         Contact
