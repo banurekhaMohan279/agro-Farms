@@ -11,25 +11,25 @@ export default function Home(){
             <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
           </div>
           <div className="carousel-inner">
-            <div className="carousel-item active" data-bs-interval="100000">
+            <div className="carousel-item active" data-bs-interval="1000">
               <img src= {carousel1} className="d-block w-100" alt="carousel img 1"/>
               <div className="carousel-caption d-none d-md-block">
-                <h5>First slide label</h5>
-                <p>Some representative placeholder content for the first slide.</p>
+                <h5>Upto 50% off on everything</h5>
+                <p>Shop before the stocks run out!!</p>
               </div>
             </div>
-            <div className="carousel-item" data-bs-interval="2000000">
+            <div className="carousel-item" data-bs-interval="2000">
               <img src={carousel2} className="d-block w-100" alt="carousel img 2"/>
               <div className="carousel-caption d-none d-md-block">
-                <h5>Second slide label</h5>
-                <p>Some representative placeholder content for the second slide.</p>
+                <h5>Fresh from our farms to your homes</h5>
+                <p>All our veggies and fruits are free from harmful chemicals!</p>
               </div>
             </div>
             <div className="carousel-item">
               <img src={carousel3} className="d-block w-100" alt="carousel img 3"/>
               <div className="carousel-caption d-none d-md-block">
-                <h5>Third slide label</h5>
-                <p>Some representative placeholder content for the third slide.</p>
+                <h5>Refer and Earn!</h5>
+                <p>Refer your friend and get 10% on your next purchase</p>
               </div>
             </div>
           </div>
