@@ -26,9 +26,7 @@ export default function Home(){
               </div>
             </div>
             <div className="carousel-item">
-              <img src={carousel3
-
-              } className="d-block w-100" alt="carousel img 3"/>
+              <img src={carousel3} className="d-block w-100" alt="carousel img 3"/>
               <div className="carousel-caption d-none d-md-block">
                 <h5>Third slide label</h5>
                 <p>Some representative placeholder content for the third slide.</p>
