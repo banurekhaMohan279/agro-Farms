@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './App.css';
+import './App.scss';
 import carousel1 from './img/carousel-1.jpg';
 import carousel2 from './img/carousel-2.jpg';
 import carousel3 from './img/carousel-3.jpg';
