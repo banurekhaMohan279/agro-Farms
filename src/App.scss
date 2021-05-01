@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 $primary-color: #e8f5e9;
 $header-color: #a5d6a7;
@@ -8,11 +7,7 @@ body{
     background-color: #000;
 }
 
-header{
-  font-family: 'Bebas Neue', cursive;
-}
-
-main, footer{
+header, main, footer{
   font-family: 'Roboto', sans-serif;
 }
 
