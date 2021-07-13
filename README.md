@@ -1,70 +1,139 @@
-# Getting Started with Create React App
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
 
-## Available Scripts
+  <h3 align="center">Agro Farms</h3>
 
-In the project directory, you can run:
+  <p align="center">
+    An organic fruits and veggies store!
+    <br />
+    <a href="https://banurekhamohan279.github.io/agroFarms/">View Demo</a>
+    ·
+    <a href="https://github.com/banurekhaMohan279/agroFarms/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/banurekhaMohan279/agroFarms/issues">Request Feature</a>
+    ·
+    <a href="https://github.com/banurekhaMohan279/agroFarms/pulls">Send a Pull Request</a>
+  </p>
+</p>
 
-### `npm start`
+<!-- TABLE OF CONTENTS -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Table of Contents
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [About the Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+    <!--* [Installation](#installation)-->
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
-### `npm test`
+<!-- ABOUT THE PROJECT -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## About The Project
 
-### `npm run build`
+![Working Model](https://github.com/banurekhaMohan279/agroFarms/blob/master/workingmodel.gif)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This portfolio project was built to showcase my professional work.
+It has 3 broad segments :
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Home
+- About
+- Contact
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Feel free to fork it to showcase your work!
 
-### `npm run eject`
+### Built With
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- HTML5
+- SCSS
+- React CRA
+- [Bootstrap](https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css)
+- [Roboto font](https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<!-- GETTING STARTED -->
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Getting Started
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Download or clone the project repository to your local folder.
 
-## Learn More
+### Prerequisites
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Node.js
+Package manager - NPM
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!-- USAGE EXAMPLES -->
 
-### Code Splitting
+## Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### `npm install` to install all module dependancies
 
-### Analyzing the Bundle Size
+### `npm start` to start the application locally
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### App.js in the entrypoint of the application
 
-### Making a Progressive Web App
+### App.scss contains all the styles of the home, about, and contact Pages
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### `npm run build` to get a prodcution build
 
-### Advanced Configuration
+<!-- ROADMAP -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🚧 Roadmap
 
-### Deployment
+See the [open issues](https://github.com/banurekhaMohan279/agroFarms/issues) for a list of proposed features (and known issues).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<!-- CONTRIBUTING -->
 
-### `npm run build` fails to minify
+## 🤝 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **extremely appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- LICENSE -->
+
+## 📝 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+
+## 📫 Contact
+
+Twitter - [@banurekha279](https://twitter.com/banurekha279) / Email - <a href="mailto:banurekha279@gmail.com">banurekha279@gmail.com</a>
+
+Project Link: [https://github.com/banurekhaMohan279/agroFarms](https://github.com/banurekhaMohan279/agroFarms)
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## Acknowledgements
+
+- [Img Shields](https://shields.io)
+- [GitHub Pages](https://pages.github.com)
+- [Font Awesome](https://fontawesome.com)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[forks-shield]: https://img.shields.io/github/forks/banurekhaMohan279/agroFarms?style=for-the-badge
+[forks-url]: https://github.com/banurekhaMohan279/agroFarms/network/members
+[stars-shield]: https://img.shields.io/github/stars/banurekhaMohan279/agroFarms?style=for-the-badge
+[stars-url]: https://github.com/banurekhaMohan279/agroFarms/stargazers
+[issues-shield]: https://img.shields.io/github/issues/banurekhaMohan279/agroFarms?style=for-the-badge
+[issues-url]: https://github.com/banurekhaMohan279/agroFarms/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/banurekha/
