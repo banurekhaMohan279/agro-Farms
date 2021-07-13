@@ -69,22 +69,20 @@ Download or clone the project repository to your local folder.
 
 ### Prerequisites
 
-Node.js
-Package manager - NPM
-
-<!-- USAGE EXAMPLES -->
+- Node.js
+- Package manager - NPM
 
 ## Usage
 
-### `npm install` to install all module dependancies
+- `npm install` to install all module dependancies
 
-### `npm start` to start the application locally
+- `npm start` to start the application locally
 
-### App.js in the entrypoint of the application
+- App.js in the entrypoint of the application
 
-### App.scss contains all the styles of the home, about, and contact Pages
+- App.scss contains all the styles of the home, about, and contact Pages
 
-### `npm run build` to get a prodcution build
+- `npm run build` to get a prodcution build
 
 <!-- ROADMAP -->
 
