@@ -44,7 +44,7 @@
 
 ![Working Model](https://github.com/banurekhaMohan279/agroFarms/blob/master/workingmodel.gif)
 
-This portfolio project was built to showcase my professional work.
+It is a single-page application for an organic store landing page.
 It has 3 broad segments :
 
 - Home
